@@ -63,6 +63,7 @@
 # print(get_available_letters('pineapple'))
 # print(get_available_letters(''))
 
+#Problem 4
 import random
 import string
 
